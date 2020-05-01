@@ -1,20 +1,21 @@
 {
-  "name": "typescript-brunch",
+  "name": "@paulmedynski/typescript-brunch",
   "version": "3.0.0-pre",
-  "description": "Adds TypeScript support to Brunch.",
-  "author": "Baptiste Donaux <baptiste.donaux@gmail.com>",
-  "contributors": [
-    "Colin Bate <colin@colinbate.com>",
+  "description": "Adds TypeScript support to Brunch with fixes for lib usage.",
+  "author": 
     {
       "name": "Paul Medynski",
       "email": "npm@healthybytes.ca",
       "url": "https://github.com/paulmedynski"
-    }
+    },
+  "contributors": [
+    "Baptiste Donaux <baptiste.donaux@gmail.com>",
+    "Colin Bate <colin@colinbate.com>"
   ],
-  "homepage": "https://github.com/brunch/typescript-brunch",
+  "homepage": "https://github.com/paulmedynski/typescript-brunch",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/brunch/typescript-brunch.git"
+    "url": "git+ssh://git@github.com/paulmedynski/typescript-brunch.git"
   },
   "main": "./index.js",
   "files": [
@@ -22,7 +23,7 @@
     "transpile.js"
   ],
   "bugs": {
-    "url": "https://github.com/brunch/typescript-brunch/issues"
+    "url": "https://github.com/paulmedynski/typescript-brunch/issues"
   },
   "scripts": {
     "test": "eslint ."

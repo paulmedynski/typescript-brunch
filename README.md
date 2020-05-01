@@ -1,6 +1,6 @@
-# typescript-brunch [![Build Status](https://travis-ci.org/brunch/typescript-brunch.svg?branch=master)](https://travis-ci.org/brunch/typescript-brunch)
+# typescript-brunch
 
-Adds TypeScript support to [Brunch](https://brunch.io).
+Adds TypeScript support to [Brunch](https://brunch.io) with fixes for lib usage.
 
 ## Usage
 
@@ -57,13 +57,13 @@ Just to note that this shouldn't affect any TypeScript support your editor/IDE p
 * [xtity](https://github.com/xtity "xtity")
 * [kripod](https://github.com/kripod "Kristóf Poduszló")
 * [jpoehls](https://github.com/jpoehls "Joshua Poehls")
-
+* [paulmedynski](https://github.com/paulmedynski "Paul Medynski")
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Baptiste Donaux (http://www.baptiste-donaux.fr)
+Copyright (c) 2019 Paul Miller, Baptiste Donaux, Paul Medynski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -72,13 +72,13 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
